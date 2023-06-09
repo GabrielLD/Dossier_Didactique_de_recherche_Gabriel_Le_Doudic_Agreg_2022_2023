@@ -1,0 +1,5 @@
+\babel@toc {french}{}\relax 
+\beamer@sectionintoc {1}{Mes travaux de recherche}{3}{0}{1}
+\beamer@sectionintoc {2}{Génération de vorticité}{10}{0}{2}
+\beamer@sectionintoc {3}{Propulsion par effet Marangoni}{19}{0}{3}
+\beamer@sectionintoc {4}{Annexes}{27}{0}{4}
