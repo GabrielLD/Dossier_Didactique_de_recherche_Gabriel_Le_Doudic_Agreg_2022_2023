@@ -17,7 +17,7 @@
 
 \definecolor{cobalt}{rgb}{0.0, 0.28, 0.67}
 \usepackage{tcolorbox}
-  \tcbuselibrary{most}
+  \tcbuselibrary{most} 
   \tcbset{colback=cobalt!5!white,colframe=cobalt!75!black}
 
 \definecolor{aquamarine}{rgb}{0.5, 1.0, 0.83}
@@ -32,11 +32,11 @@
 \graphicspath{{figures/}}
 
 % meta-data
-\title{Présentation du dossier didactique de recherche}
+\title{Mise en Perspective du Dossier Didactique de Recherche}
 \subtitle{Agrégation externe spéciale de Physique Chimie: option Physique}
-\author{Gabriel Le Doudic}
-% \date{\today}
-\institute{Préparation à l'agrégation de Rennes 1}
+\author{\large Gabriel Le Doudic}
+\date{}
+%\institute{Préparation à l'agrégation de Rennes 1}
 % \titlebackground{images/background}
 
 % document body
@@ -66,8 +66,8 @@
 
         \item Sept 2018-Jan 2022: Thèse sur l'effet Marangoni
         \begin{itemize}
-            \item Mission d'enseignement première année de Médecine, chargé de TD de Physique (96 heures)
-            \item Mission d'enseignement première année de SVT, cours TD de Physique (32 heures)
+            \item Mission d'enseignement première année de Médecine, chargé de TD de Physique (\textbf{96 heures})
+            \item Mission d'enseignement première année de SVT, cours TD de Physique (\textbf{32 heures})
             \item Projet vulgarisation autour des effets de tension de surface et Marangoni.
         \end{itemize}
         \item Fev 2022: Août 2022: Post-Doc à l'ESPCI, laboratoire PMMH
@@ -135,7 +135,7 @@
      \resizebox{.9\textwidth}{!}{\input{./figures/DefInterface_Gibbs.pdf_tex}}
    \end{figure}
    \begin{equation}
-   \left.\frac{\partial G_{\rm total}}{\partial \mathcal{A}}\right|_{T,V,N^{\alpha, \beta}} = \gamma(N_i, T)
+   \left.\frac{\partial G_{\rm total}}{\partial \mathcal{A}}\right|_{T,P,N^{\alpha, \beta}} = \gamma(N_i, T)
    \end{equation}
     \end{minipage}\hfill
     \begin{minipage}{6cm}
@@ -165,7 +165,7 @@
     \dfrac{\partial \rho}{\partial t}+\vec{\nabla}\cdot\vec{j}_m(M,t)=0\Rightarrow\vec{\nabla}\cdot \vec{v} = 0
   \end{equation} 
 
-  \noindent \textbf{$\bullet$ équation de convection-diffusion du tensioactif en volume et à la surface}
+  \noindent \textbf{$\bullet$ Équation de convection-diffusion du tensioactif en volume et à la surface}
     \begin{equation}
       \begin{array}{ccc}      
   \dfrac{\partial c}{\partial t}+\left(\vec{c}\cdot \vec{\nabla}\right)c = D\Delta c & \text{et} &  \dfrac{\partial \Gamma}{\partial t}+\dfrac{1}{r}\frac{\partial }{\partial r}\left(rv_r\Gamma\right) = -D\Delta c 
@@ -175,10 +175,10 @@
     \begin{figure}
       \centering
       \begin{tikzpicture}
-        \draw (0,0) node{\large $
-        \text{En}~z=0. \eta\left(\frac{\partial v_r}{\partial z}+\frac{\partial v_z}{\partial r}\right) = \frac{\partial \gamma}{\partial r},\text{ avec } \gamma(r)=\gamma_0-\|\dfrac{\partial \gamma}{\partial c}\|c(r,0).$};
-        \draw [red, very thick] (0.45,0) circle (.35);
-        \draw [red, very thick] (0.6,-.3) -- (0.9,-.5) node[right]{Moteur de l'écoulement};
+        \draw (0,0) node{$
+        \text{En}~z=0~ \eta\left(\frac{\partial v_r}{\partial z}+\frac{\partial v_z}{\partial r}\right) = \frac{\partial \gamma}{\partial r},\text{   avec   } \gamma(r)=\gamma_0-\|\dfrac{\partial \gamma}{\partial c}\|c(r,0).$};
+        \draw [red, very thick] (-0.3,0) circle (.35);
+        \draw [red, very thick] (0,-0.2) -- (0.3,-.5) node[right]{Moteur de l'écoulement};
       \end{tikzpicture}
     \end{figure}
 
@@ -204,7 +204,7 @@
   %     \end{itemize}
   % \end{frame}
 
-  \begin{frame}{I3. Dépôt d'une goutte de tensioactif}
+  \begin{frame}{I.3. Dépôt d'une goutte de tensioactif}
     \begin{minipage}{.4\textwidth}
     %\begin{figure}
       \centering
@@ -229,7 +229,7 @@
       \begin{minipage}{.45\textwidth}
         \begin{figure}
           \centering
-          \includegraphics[width=1\textwidth]{./figures/Ecoulement_Marangoni_2.pdf}
+          \includegraphics[width=1.1\textwidth]{./figures/Ecoulement_Marangoni_2.pdf}
         \end{figure}
       \end{minipage}\hfill
         \begin{minipage}{.45\textwidth}
@@ -304,7 +304,7 @@
         \includegraphics[width=1\textwidth]{./figures/DispositifPIV_v2.pdf}
     \end{figure}
     
-    Déplacement d'une particule entre un aller retour de la nappe LASER $dr\approx 40~\rm \upmu m < 1~\rm mm$ = taille d'une boîte de corrélation 
+    %Déplacement d'une particule entre un aller retour de la nappe LASER $dr\approx 40~\rm \upmu m < 1~\rm mm$ = taille d'une boîte de corrélation 
 \end{frame}
 
 \begin{frame}{I.9. Mesure du champ de vitesse et de vorticité ($h=15~\rm mm,~~Q_{\rm a} = 1.2~\rm \upmu mol\cdot s^{-1}$)}
@@ -746,22 +746,41 @@
       \begin{equation}
          F_{\rm M} = \alpha L \times \underbrace{\Delta\gamma_0(c_0)}_{\text{ Isotherme de Langmuir}}\times f(t)
     \end{equation}
+    \textbf{Équation de surface de Gibbs}
+
+    \begin{equation}
+      d\gamma=-\Gamma_sd\mu_s\Rightarrow    d\mu_s=RT\ln c_s
+    \end{equation}
+
+    \begin{equation}
+      \begin{array}{cc}
+        d\gamma=-\left(\dfrac{RT}{c_s}\right)\Gamma_sd c & \Gamma_s=-\dfrac{1}{RT}\dfrac{d\gamma}{d\ln c_s}
+      \end{array}
+    \end{equation}
+
 
     \textbf{Isotherme de Langmuir:}
     \begin{equation}
-        \Delta\gamma(c_0) = RT\Gamma_{\rm max}\ln{\left(1+K_{\rm L}c_0\right)}
+      \begin{array}{cc}
+        \Delta\gamma(c_0) = RT\Gamma_{\rm max}\ln{\left(1+K_{\rm L}c_0\right)} & \Gamma(c_0) = \Gamma_{\rm max}\frac{K_{\rm L}c_0}{1+K_{\rm L}c_0}.
+      \end{array}
     \end{equation}
-    \begin{equation}
-        \Gamma(c_0) = \Gamma_{\rm max}\frac{K_{\rm L}c_0}{1+K_{\rm L}c_0}.\nonumber
-    \end{equation}\pause
-    \begin{ombredef}
-      \begin{defi}
-        \textbf{Force de Propulsion:}  
-        \begin{equation}
-          F_{\rm M} =\alpha L\times RT\Gamma_{\rm max}\ln(1+K_{\rm L}c_0)\times {\rm e}^{-\dfrac{t}{\tau_{\rm M}}}.
-      \end{equation}
-    \end{defi}
-    \end{ombredef}
+  
+
+
+\end{frame}
+
+\begin{frame}{Force de propulsion}
+
+  \begin{ombredef}
+    \begin{defi}
+      \textbf{Force de Propulsion:}  
+      \begin{equation}
+        F_{\rm M} =\alpha L\times RT\Gamma_{\rm max}\ln(1+K_{\rm L}c_0)\times {\rm e}^{-\dfrac{t}{\tau_{\rm M}}}.
+    \end{equation}
+  \end{defi}
+  \end{ombredef}
+
 \end{frame}
 
 

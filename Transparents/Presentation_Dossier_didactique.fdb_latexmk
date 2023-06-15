@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1686302043 "c:/Users/ledou/Documents/Agregation/Dossier_Didactique_de_recherche_agreg_2022-2023-main/Presentation_Dossier_didactique.tex" "Presentation_Dossier_didactique.pdf" "Presentation_Dossier_didactique" 1686302051 0
-  "C:/Users/ledou/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686138756 449427 8b335059aa1bffa396ffecb11922902a ""
+["pdflatex"] 1686847913 "c:/Users/ledou/Documents/Agregation/Dossier_Didactique_de_recherche_agreg_2022-2023-main/Transparents/Presentation_Dossier_didactique.tex" "Presentation_Dossier_didactique.pdf" "Presentation_Dossier_didactique" 1686847922 0
+  "C:/Users/ledou/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686847093 449625 273efad8122af331800c79366684ac9b ""
   "C:/Users/ledou/AppData/Local/MiKTeX/fonts/tfm/public/esvect/vect10.tfm" 1686138759 372 07da2e555f4c8dac959d0bb59cacb4dc ""
   "C:/Users/ledou/AppData/Local/MiKTeX/fonts/tfm/public/esvect/vect5.tfm" 1686138763 372 28e18d88a38be26cb20dc1302f0fdc04 ""
   "C:/Users/ledou/AppData/Local/MiKTeX/fonts/tfm/public/esvect/vect6.tfm" 1686138761 372 e6493454680b692175addf943602cee1 ""
@@ -35,7 +35,6 @@
   "C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233955454 908 2921f8a10601f252058503cc6570e581 ""
   "C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1233955454 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233955454 940 228d6584342e91276bf566bcf9716b83 ""
-  "C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
@@ -445,10 +444,10 @@
   "C:/Users/ledou/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1673965817 123 a302f2c651a95033260db60e51527ae8 ""
   "C:/Users/ledou/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1650051284 2245 c8a4088d07cffc2e5207730c738edd76 ""
   "C:/Users/ledou/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
-  "Presentation_Dossier_didactique.aux" 1686302050 10515 8803a6b1ccec4da22262f8d70c01b28d "pdflatex"
-  "Presentation_Dossier_didactique.nav" 1686302050 4495 10de2d096ad703b70aa7a348f3bdbfe1 "pdflatex"
-  "Presentation_Dossier_didactique.tex" 1686302042 27292 b7a3bd72a85dc0a6b91e733db11e0b3a ""
-  "c:/Users/ledou/Documents/Agregation/Dossier_Didactique_de_recherche_agreg_2022-2023-main/Presentation_Dossier_didactique.tex" 1686302042 27292 b7a3bd72a85dc0a6b91e733db11e0b3a ""
+  "Presentation_Dossier_didactique.aux" 1686847921 10562 a488402fbaa409f91d0dfa85fcb138eb "pdflatex"
+  "Presentation_Dossier_didactique.nav" 1686847921 4588 ac383dd56cffdfe8457cce9c356dd646 "pdflatex"
+  "Presentation_Dossier_didactique.tex" 1686847912 27676 bde6bb803964e2d096588a9b6d3d82aa ""
+  "c:/Users/ledou/Documents/Agregation/Dossier_Didactique_de_recherche_agreg_2022-2023-main/Transparents/Presentation_Dossier_didactique.tex" 1686847912 27676 bde6bb803964e2d096588a9b6d3d82aa ""
   "figures//DefInterface_Gibbs.pdf" 1686138452 5014 51058375f1301c16d77e7056a38f838f ""
   "figures//MecansimeReconnexionWillert97.pdf" 1686138453 15721 2a9c7418d23e314edbd54ab544fd3110 ""
   "figures//Vorticityprofile_v2.pdf" 1642097649 54956 03567caca200329b06044f6b841bccaf ""

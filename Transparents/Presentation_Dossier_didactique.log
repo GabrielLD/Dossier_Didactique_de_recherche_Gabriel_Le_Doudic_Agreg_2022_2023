@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.1.30)  9 JUN 2023 11:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.1.30)  15 JUN 2023 18:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/ledou/Documents/Agregation/Dossier_Didactique_de_recherche_agreg_2022-2023-main/Presentation_Dossier_didactique.tex
-(c:/Users/ledou/Documents/Agregation/Dossier_Didactique_de_recherche_agreg_2022-2023-main/Presentation_Dossier_didactique.tex
+**c:/Users/ledou/Documents/Agregation/Dossier_Didactique_de_recherche_agreg_2022-2023-main/Transparents/Presentation_Dossier_didactique.tex
+(c:/Users/ledou/Documents/Agregation/Dossier_Didactique_de_recherche_agreg_2022-2023-main/Transparents/Presentation_Dossier_didactique.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-01-24> (C:\Users\ledou\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
 Document Class: beamer 2023/05/15 v3.70 A class for typesetting presentations
@@ -1759,10 +1759,7 @@ pdfTeX warning: pdflatex (file ./figures//DefInterface_Gibbs.pdf): PDF inclusion
 > <./figures//DefInterface_Gibbs.pdf
 
 pdfTeX warning: pdflatex (file ./figures//DefInterface_Gibbs.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./figures/contrainte.pdf>]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 185.
- [6
+> <./figures/contrainte.pdf>] [6
 
 ] (figures/Marangoni_effect_soluto_capillary.tex
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7.4> not available
@@ -1788,7 +1785,12 @@ pdfTeX warning: pdflatex (file ./figures/Ecoulement_Marangoni_2.pdf): PDF inclus
 File: ./figures/Ecoulement_Marangoni_2.pdf Graphic file (type pdf)
 <use ./figures/Ecoulement_Marangoni_2.pdf>
 Package pdftex.def Info: ./figures/Ecoulement_Marangoni_2.pdf  used on input line 239.
-(pdftex.def)             Requested size: 179.25114pt x 100.82442pt.
+(pdftex.def)             Requested size: 197.17735pt x 110.90356pt.
+
+Overfull \hbox (17.92621pt too wide) in paragraph at lines 239--239
+ [] 
+ []
+
 
 
 pdfTeX warning: pdflatex (file ./figures/profil_vitesse_matthieu.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
@@ -1820,6 +1822,8 @@ File: ./figures/Marangoni_flow_emulsion_Qa1p2mumolL_h7mm_h25mm.png Graphic file 
 <use ./figures/Marangoni_flow_emulsion_Qa1p2mumolL_h7mm_h25mm.png>
 Package pdftex.def Info: ./figures/Marangoni_flow_emulsion_Qa1p2mumolL_h7mm_h25mm.png  used on input line 274.
 (pdftex.def)             Requested size: 199.1693pt x 199.18036pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 274.
  [11
 
  <./figures/Marangoni_flow_emulsion_Qa1p2mumolL_h7mm_h25mm.png>]
@@ -1865,7 +1869,7 @@ Package pdftex.def Info: ./figures/DispositifPIV_v2.pdf  used on input line 308.
  <./figures/DispositifPIV_v2.pdf>]
 
 pdfTeX warning: pdflatex (file ./figures/rolling_vortex_velocity_vorticity_v2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./figures/rolling_vortex_velocity_vorticity_v2.pdf, id=432, 426.93503pt x 270.47046pt>
+<./figures/rolling_vortex_velocity_vorticity_v2.pdf, id=431, 426.93503pt x 270.47046pt>
 File: ./figures/rolling_vortex_velocity_vorticity_v2.pdf Graphic file (type pdf)
 <use ./figures/rolling_vortex_velocity_vorticity_v2.pdf>
 Package pdftex.def Info: ./figures/rolling_vortex_velocity_vorticity_v2.pdf  used on input line 315.
@@ -2312,29 +2316,22 @@ Package pdftex.def Info: ./figures/Forces_de_friction.pdf  used on input line 73
  [38
 
  <./figures/Forces_de_friction.pdf>]
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 765.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 765.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 765.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 765.
- [39
+Overfull \vbox (4.25705pt too high) detected at line 771
+ []
+
+[39
 
 ]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 765.
+(mdframed)              on input line 784.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 765.
+(mdframed)              on input line 784.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 765.
+ mdframed uses option nobreak mdframed on input line 784.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 765.
+ mdframed uses option nobreak mdframed on input line 784.
  [40
 
 ]
@@ -2349,15 +2346,15 @@ Package mdframed Info: mdframed inside a box
 
  (Presentation_Dossier_didactique.aux) ) 
 Here is how much of TeX's memory you used:
- 59273 strings out of 476375
- 1414114 string characters out of 5788975
- 1886296 words of memory out of 5000000
- 78328 multiletter control sequences out of 15000+600000
- 596653 words of font info for 176 fonts, out of 8000000 for 9000
+ 59245 strings out of 476375
+ 1413824 string characters out of 5788975
+ 1886211 words of memory out of 5000000
+ 78309 multiletter control sequences out of 15000+600000
+ 589832 words of font info for 166 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,28n,136p,2014b,1595s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,28n,136p,2027b,1595s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso8.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfchan/uzcmi8a.pfb><C:/Users/ledou/AppData/Local/Programs/MiKTeX/fonts/type1/public/esvect/vect10.pfb>
-Output written on Presentation_Dossier_didactique.pdf (40 pages, 7559762 bytes).
+Output written on Presentation_Dossier_didactique.pdf (40 pages, 7560245 bytes).
 PDF statistics:
  1435 PDF objects out of 1440 (max. 8388607)
  90 named destinations out of 1000 (max. 500000)
